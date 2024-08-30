@@ -7,3 +7,5 @@ edad = input ("introduzca su edad:\n")
 pais = input ("introduzca su pais:\n")
 
 print ("hola, su nombre " + nombre + " su edad "  + edad + "su pais " + pais + ".")
+
+print ("prueba")
